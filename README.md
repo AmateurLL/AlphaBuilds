@@ -12,23 +12,23 @@ themselves with controls and objects.
 https://forms.gle/LMUnpzScGqLXjwXf9
 
 # Simulation Controls:
-W = Move Forward
-S = Move Backward
-A = Move Left
-D = Move Right
+W = Move Forward <br />
+S = Move Backward <br />
+A = Move Left <br />
+D = Move Right <br /> <br />
 
-E = Interact
-Left Ctrl = Crouch
-C = Change Camera
-TAB = Enable/Disable Mouse Control
+E = Interact <br />
+C = Change Camera <br />
+Left Ctrl = Crouch <br />
+TAB = Enable/Disable Mouse Control <br /><br />
 
 # Radio Transmitter Controller:
-Emergency Stop = T
+Emergency Stop = T<br /><br />
 
-H1 = H H2 = U
-H3 = J H4 = I
-H5 = K H6 = O
-H7 = L H8 = P
+H1 = H   H2 = U<br />
+H3 = J   H4 = I<br />
+H5 = K   H6 = O<br />
+H7 = L   H8 = P<br /><br />
 
-HA = ; HB = [
-HC = ' HD = ]
+HA = ;   HB = [ <br />
+HC = '   HD = ] <br />
