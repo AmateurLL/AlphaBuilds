@@ -8,6 +8,9 @@ Swing Side-lifter Pulley Modules. The aim of this simulation software is to help
 users learn how to use the Side-lifter at an easier and accelerated rate to familiarise
 themselves with controls and objects.
 
+# Instructions
+Click on Code Green Button that is above the README.md Text and a option to download ZIP will show. Click on that to download the file. Once downloaded, you extract the zip file to where you want. Inside the Side-lifter Training Simulation folder there will be a "Sidelifter Simulation.exe". Just click on that to start the application. 
+
 # Google Forms for Alpha Test survey
 https://forms.gle/LMUnpzScGqLXjwXf9
 
